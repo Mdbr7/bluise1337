@@ -8,7 +8,7 @@
         <img
           alt="Debian one love"
           class="rounded shadow-xl"
-          src="app/static/images/uploads/screenshot-2024-01-12-212147.png"
+          src="https://i.ibb.co/3CGPWKw/Screenshot-2024-01-12-212147.png"
         />
       </div>
     </div>
