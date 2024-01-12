@@ -8,7 +8,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://images.unsplash.com/flagged/photo-1579274216947-86eaa4b00475"
         />
       </div>
     </div>
