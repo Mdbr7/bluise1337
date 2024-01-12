@@ -6,9 +6,9 @@
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
         <img
-          alt="Hero"
+          alt="Debian one love"
           class="rounded shadow-xl"
-          src="https://e.pcloud.link/publink/show?code=XZ818eZU8fdUmXoxYjjezHWX7E8dzMWcjYy"
+          src="app/static/images/uploads/screenshot-2024-01-12-212147.png"
         />
       </div>
     </div>
